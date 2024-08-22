@@ -25,7 +25,6 @@ pybaseball==2.2.7
 matplotlib==3.5.1
 PIL.Image==10.3.0
 requests==2.31.0
-pip==24.1.1
 ```
 
 
