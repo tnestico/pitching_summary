@@ -1,0 +1,8 @@
+# requirements.txt
+pandas==1.5.2
+numpy==1.23.5
+seaborn==0.11.1
+pybaseball==2.2.7
+matplotlib==3.5.1
+PIL.Image==10.3.0
+requests==2.31.0
