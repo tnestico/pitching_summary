@@ -5,6 +5,10 @@ I wanted to make my code public because I believe it is the best way get others 
 Please make any changes you would like to this code. I intend for this notebook to be a framework and help inspire others in their journey within the baseball analytics sphere.
 Please let me know if you have any questions!
 
+Here is an example output for the project:
+
+![alt text]('imageoutput.png')
+
 ## Article
 Please refer to both the .IPYNB file and the accompanying article  for my methodology and all code associated with the project.
 
