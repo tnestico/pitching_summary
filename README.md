@@ -10,7 +10,7 @@ Here is an example output for the project:
 ![alt text](images/output.png)
 
 ## Article
-Please refer to both the .IPYNB file and the accompanying article  for my methodology and all code associated with the project.
+Please refer to both the [.IPYNB file](https://github.com/tnestico/pitching_summary/blob/main/pitcher_summary.ipynb) and the accompanying Medium Article  for my methodology and all code associated with the project.
 
 ## Requirements
 #### *Versions and Packages*
